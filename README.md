@@ -1,7 +1,9 @@
-# Hi 👋, I'm Terence!
+# Hii 👋, I'm Terence!
+
+---
 
 ## 🌐 About Me
-🎓 Year: Sophomore at NTU pursuing a Degree in **Computer Engineering**
+🎓 Sophomore at NTU studying a Bachelor's Degree in **Computer Engineering**
 
 ---
 
@@ -13,6 +15,8 @@
 `React`  
 `NumPy` `Pandas`
 
+---
+
 ## 📱 Contact
 - 📧 Personal Email: **terencechuhengyi@gmail.com**  
 - 🏫 School Email: **chuh0007@e.ntu.edu.sg**
@@ -20,4 +24,5 @@
 ---
 
 ## 🌐 Socials
-- [LinkedIn]([https://www.linkedin.com/in/terence-chu-b64902293/])  
+- [LinkedIn](https://www.linkedin.com/in/terence-chu-b64902293/)
+
