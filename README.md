@@ -1,10 +1,9 @@
 # Hi 👋, I'm Terence!
 
----
-
 ## 🌐 About Me
 🎓 Year: Sophomore at NTU pursuing a Degree in **Computer Engineering**
 
+---
 
 ## 💻 Tech Stack
 **Languages:**  
