@@ -6,8 +6,7 @@
 ---
 
 ## 🌐 About Me  
-✨ Curious learner exploring **software development**, **machine learning**, and **data science**.  
-🚀 Love working on projects ranging from small scripts to full-stack applications.  
+✨ Curious learner exploring **cybersecurity** and **data science**.  
 🤝 Open to collaborations, hackathons, and contributing to open-source.  
 
 ---
@@ -18,7 +17,8 @@
 `C` `C++` `Python` `JavaScript` `Java`  
 
 **Frameworks & Libraries** ⚡  
-`React` `NumPy` `Pandas`  
+`React` `Node.js` 
+`NumPy` `Pandas`  
 
 ---
 
