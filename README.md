@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋, I'm Terence!
 
-<!--
-**choochootrain23/choochootrain23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌐 About Me
+🎓 Year: Sophomore at NTU pursuing a Degree in **Computer Engineering**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 💻 Tech Stack
+**Languages:**  
+`C` `C++` `Python` `JavaScript` `Java`
+
+**Frameworks & Libraries:**  
+`React`  
+`NumPy` `Pandas`
+
+## 📱 Contact
+- 📧 Personal Email: **terencechuhengyi@gmail.com**  
+- 🏫 School Email: **chuh0007@e.ntu.edu.sg**
+
+---
+
+## 🌐 Socials
+- [LinkedIn]([https://www.linkedin.com/in/terence-chu-b64902293/])  
