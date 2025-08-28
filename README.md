@@ -37,5 +37,4 @@
 
 ## 📊 GitHub Stats  
 
-![Terence's GitHub stats](https://github-readme-stats.vercel.app/api?username=choochootrain23&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choochootrain23&layout=compact&theme=tokyonight)  
+![Terence's GitHub stats](https://github-readme-stats.vercel.app/api?username=choochootrain23&show_icons=true&theme=tokyonight)
